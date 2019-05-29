@@ -5,14 +5,14 @@
   "main": "pages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node pages.js",
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Diegonavarro05/NodeJs.git"
   },
   "author": "Diego Alarcon Navarro",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Diegonavarro05/NodeJs/issues"
   },
